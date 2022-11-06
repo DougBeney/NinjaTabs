@@ -15,3 +15,11 @@ Improvements over firefox-fts:
 - Vim/Emacs keybindings
 - Lightweight. No jQuery dependency
 - More customizations
+
+TODO list:
+
+- Remove jQuery dep & integrate logic code into my new design
+- Clean up crufty code
+- Try to find a way to match system colors
+- Customize more settings
+- Chrome support
